@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Bolt",
+    "species": "Dog",
+    "breed": "Labrador Retriever",
+    "age": 4,
+    "gender": "M",
+    "description": "loves to play",
+    "imageUrl": "",
+    "adopted": false
+  },
+
+  {
+    "name": "Ace",
+    "species": "Dog",
+    "breed": "German Shepherd",
+    "age": 3,
+    "gender": "M",
+    "description": "loves to play",
+    "imageUrl": "",
+    "adopted": false
+  },
+
+  {
+    "name": "Lucy",
+    "species": "Dog",
+    "breed": "Golden Retriever",
+    "age": 4,
+    "gender": "F",
+    "description": "loves to play",
+    "imageUrl": "",
+    "adopted": false
+  },
+
+  {
+    "name": "Bailey",
+    "species": "Dog",
+    "breed": "Beagle",
+    "age": 5,
+    "gender": "F",
+    "description": "loves to play",
+    "imageUrl": "",
+    "adopted": false
+  },
+
+  {
+    "name": "Nemo",
+    "species": "Dog",
+    "breed": "Poodle",
+    "age": 5,
+    "gender": "M",
+    "description": "loves to play",
+    "imageUrl": "",
+    "adopted": false
+  },
+
+  {
+    "name": "Rufus",
+    "species": "Dog",
+    "breed": "Rottweiler",
+    "age": 5,
+    "gender": "M",
+    "description": "loves to play",
+    "imageUrl": "",
+    "adopted": false
+  },
+
+  {
+    "name": "Cynthia",
+    "species": "Dog",
+    "breed": "Samoyed",
+    "age": 5,
+    "gender": "F",
+    "description": "loves to play",
+    "imageUrl": "",
+    "adopted": false
+  },
+
+  {
+    "name": "Toby",
+    "species": "Dog",
+    "breed": "Siberian Husky",
+    "age": 5,
+    "gender": "M",
+    "description": "loves to play",
+    "imageUrl": "",
+    "adopted": false
+  },
+
+  {
+    "name": "Zoe",
+    "species": "Dog",
+    "breed": "Chow Chow",
+    "age": 5,
+    "gender": "F",
+    "description": "loves to play",
+    "imageUrl": "",
+    "adopted": false
+  },
+
+  {
+    "name": "Max",
+    "species": "Dog",
+    "breed": "Great Dane",
+    "age": 5,
+    "gender": "M",
+    "description": "loves to play",
+    "imageUrl": "",
+    "adopted": true
+  },
+
+  {
+    "name": "Arnold",
+    "species": "Cat",
+    "breed": "Persian",
+    "age": 5,
+    "gender": "M",
+    "description": "loves to play",
+    "imageUrl": "",
+    "adopted": true
+  },
+
+  {
+    "name": "Fiona",
+    "species": "Cat",
+    "breed": "Siamese",
+    "age": 5,
+    "gender": "F",
+    "description": "loves to play",
+    "imageUrl": "",
+    "adopted": true
+  },
+
+  {
+    "name": "Olivia",
+    "species": "Cat",
+    "breed": "Bengal",
+    "age": 5,
+    "gender": "F",
+    "description": "loves to play",
+    "imageUrl": "",
+    "adopted": true
+  },
+
+  {
+    "name": "Vanessa",
+    "species": "Cat",
+    "breed": "Sphynx",
+    "age": 5,
+    "gender": "F",
+    "description": "loves to play",
+    "imageUrl": "",
+    "adopted": true
+  },
+
+  {
+    "name": "Annie",
+    "species": "Cat",
+    "breed": "Russian Blue",
+    "age": 5,
+    "gender": "F",
+    "description": "loves to play",
+    "imageUrl": "",
+    "adopted": true
+  }
+]
