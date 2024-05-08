@@ -8,5 +8,4 @@ class AnimalSerializer(serializers.ModelSerializer):
     class Meta:
         model = Animal
         fields = '__all__'
-        read_only_fields = ['id', 'adopted_by']
 
